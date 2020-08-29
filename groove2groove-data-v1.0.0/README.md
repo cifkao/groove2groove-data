@@ -10,9 +10,6 @@ This dataset contains synthetic accompaniments generated as described in the pap
 "Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data",
 <https://doi.org/10.1109/TASLP.2020.3019642>.
 
-This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International
-License (CC BY-NC 4.0) <http://creativecommons.org/licenses/by-nc/4.0/>.
-
 If you use the data in your research, please reference the paper:
  
     @article{groove2groove,
@@ -23,6 +20,12 @@ If you use the data in your research, please reference the paper:
       doi={10.1109/TASLP.2020.3019642},
       url={https://doi.org/10.1109/TASLP.2020.3019642}
     }
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International
+License (CC BY-NC 4.0): <http://creativecommons.org/licenses/by-nc/4.0/>.
+
+This work was supported by the European Union's Horizon 2020 research and innovation
+programme under the Marie Sklodowska-Curie grant agreement No. 765068 (MIP-Frontiers).
 
 ## Data description
 
