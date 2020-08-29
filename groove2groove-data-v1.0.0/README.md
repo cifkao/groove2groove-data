@@ -15,14 +15,14 @@ License (CC BY-NC 4.0) <http://creativecommons.org/licenses/by-nc/4.0/>.
 
 If you use the data in your research, please reference the paper:
  
-  @article{groove2groove,
-    author={Ond\v{r}ej C\'{i}fka and Umut \c{S}im\c{s}ekli and Ga\"el Richard},
-    journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
-    title={Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data}, 
-    year={2020},
-    doi={10.1109/TASLP.2020.3019642},
-    url={https://doi.org/10.1109/TASLP.2020.3019642}
-  }
+    @article{groove2groove,
+      author={Ond\v{r}ej C\'{i}fka and Umut \c{S}im\c{s}ekli and Ga\"el Richard},
+      journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+      title={Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data}, 
+      year={2020},
+      doi={10.1109/TASLP.2020.3019642},
+      url={https://doi.org/10.1109/TASLP.2020.3019642}
+    }
 
 ## Data description
 
