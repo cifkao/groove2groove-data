@@ -11,11 +11,11 @@ This dataset contains synthetic accompaniments generated as described in the pap
 <https://doi.org/10.1109/TASLP.2020.3019642>.
 
 If you use the data in your research, please reference the paper:
- 
+
     @article{groove2groove,
       author={Ond\v{r}ej C\'{i}fka and Umut \c{S}im\c{s}ekli and Ga\"el Richard},
-      journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
-      title={Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data}, 
+      journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+      title={Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data},
       year={2020},
       doi={10.1109/TASLP.2020.3019642},
       url={https://doi.org/10.1109/TASLP.2020.3019642}
@@ -48,6 +48,7 @@ MIDI files are described in the next section.
 Each set of MIDI files is provided in two versions, each in its own subdirectory:
 - `raw` – the raw output of Band-in-a-Box.
 - `fixed` – non-empty files only, fixed so that each track has the correct program number.
+
 The filenames have the form `{chart_name}.{style}_{substyle}.mid`. The `charts_styles_substyles.tsv`
 file lists the chord chart filenames along with the styles and substyles applied to each chord
 chart.
