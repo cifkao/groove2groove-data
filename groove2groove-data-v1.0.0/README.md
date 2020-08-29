@@ -32,7 +32,9 @@ programme under the Marie Sklodowska-Curie grant agreement No. 765068 (MIP-Front
 ### MIDI files
 The `midi` directory contains one subdirectory for each part of the dataset:
 - `train` contains 5744 MIDI files in 2872 styles (exactly 2 files per style). Each file contains
-  252 measures (the Band-in-a-Box maximum) following a 2 measure count-in.
+  252 measures (the Band-in-a-Box maximum) following a 2 measure count-in. (Note that 11 of these
+  files are empty due to technical difficulties and are only included in the `raw` version of the
+  data.)
 - `val` and `test` each contain 1200 files in 40 styles (exactly 30 files per style, 16 bars per
   file after the count-in). The sets of styles are disjoint from each other and from those in
   `train`.
